@@ -1,5 +1,5 @@
 # device_card.py
-# This program stores data about one const and Four variables.
+# This program stores data about device card.
 MAX_CONNECTIONS = 100
 
 device_name = "web-server-01"
